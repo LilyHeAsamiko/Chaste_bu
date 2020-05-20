@@ -1,0 +1,38 @@
+This cannot be installed without root even on pycml, it is partially supported on windows only and on mac I do not have root right as well.
+I do not think it proper to squeeze my time and energy like what happened last week. 
+
+ODE + PDE
+
+https://chaste.cs.ox.ac.uk/trac/wiki/UserTutorials
+
+https://chaste.cs.ox.ac.uk/trac/wiki/ChasteGuides/NmoodLectureNotes
+
+https://chaste.cs.ox.ac.uk/trac/wiki/UserTutorials/SolvingLinearParabolicPdeSystemsWithCoupledOdeSystems
+
+FEM
+
+https://chaste.cs.ox.ac.uk/trac/wiki/ChasteGuides/FiniteElementImplementations#no1
+
+https://chaste.cs.ox.ac.uk/trac/wiki/ChasteGuides/FiniteElementAssemblersAndSolvers
+
+example:
+
+Cardiac Electro-mechanical Problems
+
+https://chaste.cs.ox.ac.uk/trac/wiki/UserTutorials/CardiacElectroMechanics
+
+SchnackenbergCoupledPdeSystem
+
+
+Solving cardiac problems
+
+https://chaste.cs.ox.ac.uk/trac/wiki/PaperTutorials/CaDiffusion/CaDiffusion
+
+https://chaste.cs.ox.ac.uk/trac/wiki/ChasteGuides/SolvingCardiacProblems
+
+AbstractCardiacMechanicsSolverInterface  
+
+https://chaste.cs.ox.ac.uk/trac/wiki/UserTutorials/AnotherCardiacElectroMechanics
+
+https://chaste.cs.ox.ac.uk/trac/browser/chaste/projects?rev=24001&order=name
+
