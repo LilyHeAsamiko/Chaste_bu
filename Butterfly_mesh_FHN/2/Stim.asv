@@ -1,0 +1,9 @@
+function Stim(stimulation, time, condition)
+    if condition == 'zero'
+        Istim = 0;
+    elseif condition =='regular'
+        Istim = abs(stimulation);
+    end
+if time < RegularStim
+        
+end

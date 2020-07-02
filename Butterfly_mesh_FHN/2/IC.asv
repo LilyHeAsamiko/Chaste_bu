@@ -1,0 +1,7 @@
+function sc = IC(kda, ka, nH, ic, L)
+    %simplest ic50=kd=ec50
+    Kd = kda/ka;%L+R->LR with k1, LR desociate into L , R with k2
+    Y = L^nH/(L^nH+Kd);
+    skew = max()
+    sc = log(Y/(1-Y));
+end

@@ -1,0 +1,9 @@
+function Ek = Kineticenergy(C_in, C_out,T,z)
+    R = 1.989; %Cal/K/mo
+    F = 23.061; %kcal/V*gram
+    Ek = R*T*np.log(C_out/C_in)/(z*F*10^3);
+end
+
+function I = Electricity(sc, g, V, Ek)
+    I = sc*g*(V-E_k);
+end
